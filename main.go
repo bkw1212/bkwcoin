@@ -1,7 +1,6 @@
 package main
 
-import "fmt"
-
 func main() {
-	fmt.Println("It works!")
+	name := "bkw"
+	age := 12
 }
